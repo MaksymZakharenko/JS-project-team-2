@@ -1,2 +1,2 @@
-# JS-project-team-2
-JS-project-team-2
+# Slim-mom-react-project
+Slim-mom team project (React)
